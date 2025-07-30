@@ -13,7 +13,11 @@ The homepage showcases blog posts in a **card layout**, allows **category-based 
 
 ## 📸 Preview Screenshot
 
-![Blog Screenshot](images/blog-preview.png)
+![Blog Screenshot](https://i.postimg.cc/SQ76G3KP/task-4-a.png)
+![Blog Screenshot](https://i.postimg.cc/3xy0zcKY/task-4-b.png)
+![Blog Screenshot](https://i.postimg.cc/hjnJz4Vt/task-4-c.png)
+![Blog Screenshot](https://i.postimg.cc/rsFKjhn6/task-4-d.png)
+![Blog Screenshot](https://i.postimg.cc/T17h4rFK/task-4-e.png)
 
 > 🖼️ The homepage includes featured posts, a search bar, category filters, and an elegant layout.
 
