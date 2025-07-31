@@ -87,8 +87,7 @@ Task-4-Blog-Homepage/
 
 ## 🔗 Live Demo 
 
-> If hosted on GitHub Pages:  
-`https://yourusername.github.io/Task-4-Blog-Homepage/`
+`https://hasaan1315.github.io/Personal-Blog-Homepage-ELEVVO/`
 
 ---
 
